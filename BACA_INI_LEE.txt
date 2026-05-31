@@ -1,0 +1,3 @@
+isi Token bot telegram di config.js
+
+tidak perlu isi juga gapapa kalo ga make bot telegram, dan kalau di console muncul connection closed, cara atasin nya yaitu ke files lalu cari folder bernama session, kalau sudah ketemu hapus folder nya, abis itu ke console klik restart
